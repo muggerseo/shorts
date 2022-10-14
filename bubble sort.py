@@ -7,5 +7,6 @@ for run in range(n-1):
         if mas[i] > mas[i+1]:
             count += 1
             mas[i],mas[i+1] = mas[i+1],mas[i]
+     print(count)
 
 print(mas)
