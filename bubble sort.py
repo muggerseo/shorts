@@ -11,4 +11,5 @@ for i in mas:
     print(i, end=' ')
 
 print()
+print()
 print(count)
